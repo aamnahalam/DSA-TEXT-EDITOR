@@ -244,14 +244,14 @@ build\test_document.exe
 
 ## 14. Authors
 
-| Name | Roll No. | Role |
-1. Syeda Aamnah Alam
-2. Hiba Zia
-3. Hafsa Saad
+| Name | Roll No.
+1. Syeda Aamnah Alam CS-105
+2. Hiba Zia CS-102
+3. Hafsa Saad CS-117 
 
 **Course:** Data Structures & Algorithms (CEP)  |  **Institution:** [ NED UNIVERSITY ]  |  **Supervisor:** [ Sir Shahab Tahzeeb ]  |  **Year:** 2026
 
 
 ## 15. License
 
-This project was created for educational purposes. You may add a license of your choice (for example MIT) in a `LICENSE` file.
+This project was created for educational purposes.
