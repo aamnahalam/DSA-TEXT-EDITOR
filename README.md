@@ -2,7 +2,10 @@
 
 > A feature-rich, console-based text editor in C++17, built from scratch on custom data structures.
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![Status](https://img.shields.io/badge/status-complete-brightgreen)
+MAIN DASHBOARD
+<img width="541" height="452" alt="image" src="https://github.com/user-attachments/assets/ce83ce69-02f7-411b-a71d-14f6557c547d" />
+<img width="776" height="1193" alt="image" src="https://github.com/user-attachments/assets/046b9c52-c037-40c4-8114-e1edf19f390d" />
+<img width="558" height="395" alt="image" src="https://github.com/user-attachments/assets/4113c1c4-91f6-4125-8d16-b67a8e74dc2f" />
 
 
 
@@ -174,7 +177,9 @@ When the program starts, a welcome screen is shown. Press **ENTER** to open the 
 | 30 | Exit Editor | Quits (prompts to save unsaved changes). |
 
 
-### Interactive line editor – keyboard controls
+
+
+
 
 | Key | Action |
 |---|---|
