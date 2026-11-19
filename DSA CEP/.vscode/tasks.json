@@ -1,0 +1,38 @@
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\msys64\\mingw32\\ucrt64\\bin\\g++.exe",
+            "args": [
+                "-std=c++17",
+                "-Wall",
+                "-Wextra",
+                "-Iinclude",
+                "main.cpp",
+                "src/TextEditor.cpp",
+                "src/EditorController.cpp",
+                "src/document.cpp",
+                "src/UndoManager.cpp",
+                "src/SearchEngine.cpp",
+                "src/FileManager.cpp",
+                "src/SearchHistory.cpp",
+                "src/RecentFiles.cpp",
+                "-o",
+                "build/Debug/TextEditor.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

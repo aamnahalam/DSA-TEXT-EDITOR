@@ -1,0 +1,7 @@
+I love programming.
+C++ is interesting.
+I love programming.
+Data structures are important.
+C++ is interesting.
+I love programming.
+Data Structures are important.
